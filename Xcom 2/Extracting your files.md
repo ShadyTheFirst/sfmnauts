@@ -8,5 +8,7 @@ The next window that appears is a list of all the packages included with the gam
 
 \_SF: Static models. It's all models without bones, so a lot of props and vehichles. DON'T EXTRACT CHARACTERS FROM HERE, AS THEY WILL NOT BE RIGGED.
 
+AVG_: Models used inside the Avenger. The tag after the AGV_ tell you what room it's in.
 
+BP_: I believe BP_ is used for props or similar items that need to have some basic script 
 
